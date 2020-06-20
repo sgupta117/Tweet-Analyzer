@@ -11,10 +11,10 @@ from PIL import Image
 import seaborn as sns
 
 
-consumerKey = '3dH9yJB3OotMgPxgAoTlGxj37'
-consumerSecret = 'fHrQEAoCgEoOxrEWHtDVlAp53E5eD4wugYRlWOL2VYVp1YT8RN'
-accessToken = '1640651208-7uaD86m5wHAWHF3dhj0P2Fg2Ik0YNeP9wyFcdtX'
-accessTokenSecret = 'qCW6O5XYuQCjTkMNOp1rY70P2WvU3FrP6XlKPh1XeeIMG'
+consumerKey = None #Confidential
+consumerSecret = None #Confidential
+accessToken = None #Confidential
+accessTokenSecret = None #Confidential
 
 
 #Create the authentication object
