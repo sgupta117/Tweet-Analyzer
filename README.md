@@ -1,13 +1,13 @@
 # Tweet-Analyzer
 
-Web App Link : https://tweet-analyzer-tool.herokuapp.com/
+Web App Link : https://tweeter-analyzer-app.herokuapp.com/
 
 This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
 
 1.Analyze the tweets of your favourite Personalities
 
 This tool performs the following tasks :
-1. Fetches the 5 most recent tweets from the given twitter handel
+1. Fetches the 10 most recent tweets from the given twitter handel
 2. Generates a Word Cloud
 3. Performs Sentiment Analysis a displays it in form of a Bar Graph
 
