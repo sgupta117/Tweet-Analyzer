@@ -4,6 +4,14 @@ Web App Link : https://tweeter-analyzer-app.herokuapp.com/
 
 Docker Container : https://hub.docker.com/repository/docker/shubham017/tweet_analyzer
 
+# Technology Used:
+![OIP](https://user-images.githubusercontent.com/61824566/85453962-0aebee00-b5ba-11ea-83a5-e0d80286f5ea.jpg)       ![download](https://user-images.githubusercontent.com/61824566/85454285-6322f000-b5ba-11ea-8223-7544d32bf409.jpg)       ![OIP (1)](https://user-images.githubusercontent.com/61824566/85454332-71710c00-b5ba-11ea-884f-22def7bdabfb.jpg)
+
+![download (1)](https://user-images.githubusercontent.com/61824566/85454579-b2692080-b5ba-11ea-8deb-bf474a879c4a.jpg)
+
+
+
+
 This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
 
 1.Analyze the tweets of your favourite Personalities
