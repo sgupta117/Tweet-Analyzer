@@ -12,10 +12,6 @@ Docker Container : https://hub.docker.com/repository/docker/shubham017/tweet_ana
 
 ![download (1)](https://user-images.githubusercontent.com/61824566/85454579-b2692080-b5ba-11ea-8deb-bf474a879c4a.jpg)
 
-
-- Glimpse of the we app:
-![GIF](readme_resources/Tweet_Analyzer.gif)
-
 This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
 
 1.Analyze the tweets of your favourite Personalities
@@ -33,6 +29,9 @@ Cleans the text
 2. Analyzes Polarity of tweets and adds an additional column for it
 3. Analyzes Sentiments of tweets and adds an additional column for it
 
+
+- Glimpse of the we app:
+![GIF](readme_resources/Tweet_Analyzer.gif)
 
 This respository contains all the files for end to end model building and deployment of tweet analyzer web app
 
