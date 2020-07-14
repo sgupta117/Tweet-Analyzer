@@ -30,7 +30,7 @@ Cleans the text
 3. Analyzes Sentiments of tweets and adds an additional column for it
 
 
-- Glimpse of the we app:
+-Glimpse of the web app:
 ![GIF](readme_resources/Tweet_Analyzer.gif)
 
 This respository contains all the files for end to end model building and deployment of tweet analyzer web app
